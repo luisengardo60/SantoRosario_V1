@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-attachment\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"backgr",
+				"background-attachment\tproperty"
+			],
+			[
+				"h",
+				"hr\tTag"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"enlaces",
+				"enlacesModel"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bA",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"auTOM",
+				"db2_autocommit"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"A",
+				"Apellido"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"op",
+				"oper2"
+			],
+			[
+				"oper",
+				"oper2"
+			],
+			[
+				"ope",
+				"operador2"
+			],
+			[
+				"bo",
+				"border-box\tbox-sizing"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/iniciosrI.html",
+			"settings":
+			{
+				"buffer_size": 1206,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/letaniasI.html",
+			"settings":
+			{
+				"buffer_size": 4362,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estiloletaniasI.css",
+			"settings":
+			{
+				"buffer_size": 465,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"folder",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/imag"
+	],
+	"file_history":
+	[
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/indexsrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estiloindexsrI.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/iniciosrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/viernessrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estilosrmaviI.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estilosrjuI.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/domingosrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estilosrI.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estilosrlusaI.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/juevessrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estilosrmidoI.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/miercolessrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/lunessrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/martessrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/sabadosrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/difuntossrI.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estilodifuntosI.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/html/indexsr.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/css/estiloindexsr.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/html/difuntossr.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/css/estilodifuntos.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/css/estilosrmavi.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/css/estilosrlusa.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/html/martessr.html",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/css/estilosr.css",
+		"/home/luis/Documents/Curso_HTML/SantoRosario/html/lunessr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/css/estilosrju.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/css/estilosrmavi.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/css/estilosrmido.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/css/estilosr.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/css/estilosrlusa.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/domingosr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/miercolessr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/martessr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/viernessr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/indexsr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/iniciosr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/css/estiloindexsr.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/lunessr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/sabadosr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/juevessr.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/sabadosrrespaldo.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/audio.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/html/audionew.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/SantoRosario/css/estilolumisr.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/mapa_de_venezuela_minas.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/padre.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/pseudo_clases_elementos_miercoles_1.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/saludo_inicial_lunes2.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/tablas_lunes_5.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/vector_martes_segunda.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/html/tablas.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/html/identificador.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/html/verimagen.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/html/inicio.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/html/nosotros.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/html/estrucpagweb.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/html/formulario.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/audio.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/vervideo.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/verimagen.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/listas.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/rutaslocales1.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/index.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/rutaslocales.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/rutas.html",
+		"/C/Users/REDNAXE/Documents/01.cursohtml5_soydalto/enlaces.html",
+		"/C/xampp/htdocs/01.cursohtml5_soydalto/enlaces.html",
+		"/C/xampp/htdocs/codigos/01.cursohtml5_soydalto/enlaces.html",
+		"/C/xampp/htdocs/01.cursohtml5_soydalto/index.html",
+		"/C/xampp/htdocs/codigos/03.MVC/views/modules/navegacion.php",
+		"/C/xampp/htdocs/codigos/03.MVC/views/modules/inicio.php",
+		"/C/xampp/htdocs/codigos/03.MVC/models/model.php",
+		"/C/xampp/htdocs/codigos/03.MVC/views/template.php",
+		"/C/xampp/htdocs/codigos/03.MVC/index.php",
+		"/C/xampp/htdocs/codigos/03.MVC/controllers/controller.php",
+		"/C/xampp/htdocs/codigos/03.MVC/views/modules/contactenos.php",
+		"/C/xampp/htdocs/codigos/03.MVC/views/modules/servicios.php",
+		"/C/xampp/htdocs/codigos/03.MVC/views/modules/nosotros.php",
+		"/C/xampp/htdocs/codigos/03.MVC/controlers/controler.php",
+		"/C/xampp/htdocs/codigos/03.MVC/views/modules/template.php",
+		"/C/xampp/htdocs/codigos/03.MVC/controlers/controler.oho",
+		"/C/xampp/htdocs/codigos/03.MVC/index.html",
+		"/C/xampp/htdocs/codigos/curso_php_lunes/01.ejemplouno.html",
+		"/C/xampp/htdocs/codigos/curso_php_lunes/02.ejemplodos.html",
+		"/C/xampp/htdocs/codigos/curso_php_lunes/01.ejemplouno.php",
+		"/C/xampp/htdocs/codigos/01.IntroduccionPHP/02.variables.php",
+		"/C/xampp/htdocs/codigos/02.POO/01.codigoImperativo.php",
+		"/C/xampp/htdocs/codigos/02.POO/02.poo.php",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/sublime_project/eventos_02122020_validar3.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/sublime_project/expresion_regular_programa1_0212220.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/sublime_project/eventos_miercoles_02122020_unoa.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/sublime_project/sololetras_miercoles0212.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/eventos_martes_segunda.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/programa_embebido.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/css/estilo2.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/Javascript/funciones_matematicas_vector.js",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/funciones_matematicas_vector.js",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/vector_martes_segunda2.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/Javascript/funciones_matematicas.js",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/Javascript/operaciones_multiples_lunes2do_5.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/Javascript/Java_variables2_lunes2do.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/Javascript/variable_objeto.js",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/Javascript/suma_lunes_segundo_4.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/Javascript/funciones_matematicas.jc",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/Javascript/Java_variables_lunes2do.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/css/bootstrap_css.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/W3school_css/w3plantillaestilo.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/W3school.html/w3plantilla1.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/bootstrap_uno_jueves.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/Prueba1.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/html/bootstrap_jueves.html",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/css/estilo3.css",
+		"/C/Users/REDNAXE/Documents/Curso_HTML/css/w3plantillaestilo.css"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tr"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"li"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/iniciosrI.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1122,
+								1122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 498.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/luis/Documents/Curso_HTML/SantoRosario_V1/html/letaniasI.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4278,
+								4278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1824.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/luis/Documents/Curso_HTML/SantoRosario_V1/css/estiloletaniasI.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 92.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rosario1.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

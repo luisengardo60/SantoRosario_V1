@@ -1,0 +1,37 @@
+body { background-image: linear-gradient(to right,blue,white); font-style: italic;
+		margin: 0%; padding: 0%;
+	/*background-image: url(../imag/jesus-2.jpg);
+ 	background-repeat: no-repeat; 
+ 	background-size:cover;
+ 	background-attachment: fixed;
+ 	font-family: "Sofia", sans-serif;*/
+ 	/*font-size: 100px;*/ }
+
+button {color: white; text-align: center; display: inline-block; 
+	background-color: grey;box-sizing: content-box;
+	font-size: 18px;
+	margin: 5px;
+	border-radius: 5px;
+	border: 8px outset grey; }
+
+button a {color:white; text-decoration: none;}
+
+span {color: yellow; font-size: 22px;}
+
+p { color: yellow; font-size: 25px; float: center; }
+
+.uno { width: 580px; height: 580px;float: right; padding-top: 5em; padding-right: 2em;
+	     margin-right: 0px;object-fit: contain; }
+
+.dos { /*border:2px solid orange;*/ padding: 5px; float: left;
+	width: 100px; height: 100px; border-radius: 10px; object-fit: cover; }
+
+.tres { /*border:2px solid orange;*/ padding: 5px; float: left;
+	width: 100px; height: 100px; border-radius: 10px; object-fit: cover; }
+
+.cuatro { /*border:2px solid orange;*/ padding: 5px; float: left;
+	width: 100px; height: 100px; border-radius: 10px; object-fit: cover; }
+
+.cinco { /*border:2px solid orange;*/ padding: 5px; float: left;
+	width: 100px; height: 100px; border-radius: 10px; object-fit: cover; }
+
