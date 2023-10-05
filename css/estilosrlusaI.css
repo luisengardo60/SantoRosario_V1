@@ -1,0 +1,82 @@
+body { background-color: blue;
+		 font-style: italic; margin: 0%; padding: 0%; }
+
+/*body { background-image: url(../imag/cerezos.jpg); 
+ 	background-repeat: no-repeat;  
+/* 	background-attachment: fixed;*/
+/* 	background-size: cover; font-style: normal;
+/* 	font-family: "Sofia", sans-serif;}*/
+
+header { margin-top: 0%; border-radius: 5px; border: 5px solid orange;  
+		background-color: blue; 
+ 		font-size: 28px; position: fixed; width: 99.2%;
+ 		margin: 0px; padding-top: 0.5em; padding-bottom: 0.5em; }
+
+header audio { width: 14%; background-color: transparent; float: right;}
+
+audio
+{
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #006773;
+-webkit-box-shadow:  2px 2px 4px 0px #006773;
+box-shadow: 2px 2px 4px 0px #006773;
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;
+}
+
+audio:hover, audio:focus, audio:active
+{
+-webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+header img { margin-top: 0%; border-radius: 10px; border: 5px solid orange; 
+	padding: 4px; float: left; width: 100px; height: 100px;
+	object-fit: cover; margin: 4px; border-radius: 100px;  }
+
+header b {color:red; font-size: 0.9em;}
+
+/*header h2::first-letter { font-size: 50px; color: orange; }*/
+
+header a { color: white; text-align: center; display: inline-block; 
+	background-color: grey;box-sizing: content-box;
+	font-size: 16px; margin: 10px; border-radius: 15px;
+	border: 8px outset grey; text-decoration: none; }
+
+header .unico {color: yellow; text-align: left; font-size: 15px; }
+
+section { width: 90%; margin: auto;}
+
+article { margin-top: 0%; border-radius: 10px; border: 5px solid orange;
+			background-image: linear-gradient(to right,lightblue,white,lightblue);}
+
+article { color: white; font-size: 25px; padding-top: 6em; 
+	         /* background-image:  url(../imag/azul3.jpeg)*/
+			 background-color: lightblue;}
+
+article a { color: blue; text-align: center; display: inline-block; 
+	background-color: transparent;box-sizing: content-box;
+	font-size: 15px;
+	margin: 10px;
+	border-radius: 15px;
+	border: 8px outset grey; }
+	
+article b { color: darkblue; text-align: left; font-size: 28px; }
+
+article .unico { color: white; text-align: left; font-size: 15px; }
+
+article p { color:black; text-align: left; font-size: 26px; }
+
+article input {color:black;}
+
+hr { height: 5px; background-color: blue; margin: 10px;
+	border-radius: 5px; border: 5px outset grey; }
+

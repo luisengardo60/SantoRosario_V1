@@ -1,0 +1,67 @@
+body { background-image: linear-gradient(to right,blue,white); font-style: italic;
+		margin: 0%; padding: 0%;
+	/*background-image: url(../imag/jesus-2.jpg);
+ 	background-repeat: no-repeat; 
+ 	background-size:cover;
+ 	background-attachment: fixed;
+ 	font-family: "Sofia", sans-serif;*/
+ 	/*font-size: 100px;*/ }
+
+button {color: white; text-align: center; display: inline-block; 
+	background-color: grey;box-sizing: content-box;
+	font-size: 18px;
+	margin: 5px;
+	border-radius: 5px;
+	border: 8px outset grey; }
+
+button a {color:white; text-decoration: none;}
+
+div button.fondo {color: white; text-align: center; display: inline-block; 
+	background-color: blue;
+	box-sizing: content-box;
+	font-size: 18px;
+	margin: 10px;
+	border-radius: 2px;
+	border: 5px outset grey; }
+
+span {color: yellow; font-size: 22px;}
+
+div .zero, .one, .one_1 {
+	display: inline-block;
+}
+
+div .zero, .two, .two_1 {
+	display: inline-block;
+}
+
+div .zero, .three, .three_1 {
+	display: inline-block;
+}
+
+div .zero, .four, .four_1 {
+	display: inline-block;
+}
+p { color: yellow; font-size: 25px; float: center; }
+
+b { font-size: 30px;}
+
+.uno { width: 510px; height: 510px; float: right;
+	padding-top: 0em; padding-right: 0px; padding-top: 0em;padding-bottom: 0em;
+	margin-right: 200px; margin-top: 80px;
+			 /*object-fit: contain;*/
+			 border-radius: 400px; border:2px solid blue}
+
+.dos { /*border:2px solid orange;*/ padding: 5px; float: left;
+	width: 100px; height: 100px; border-top-left-radius: 100%; border-top-right-radius: 100%;object-fit: cover; }
+
+.tres { /*border:2px solid orange;*/ padding: 5px; float: left;
+	width: 100px; height: 100px; border-top-left-radius: 100%; border-top-right-radius: 100%; object-fit: cover; }
+
+.cuatro { /*border:2px solid orange;*/ padding: 5px; float: left;
+	width: 100px; height: 100px; border-top-left-radius: 100%; border-top-right-radius: 100%; object-fit: cover; }
+
+.cinco { /*border:2px solid orange;*/ padding: 5px; float: left;
+	width: 100px; height: 100px; border-top-left-radius: 100%; border-top-right-radius: 100%; object-fit: cover; }
+
+
+

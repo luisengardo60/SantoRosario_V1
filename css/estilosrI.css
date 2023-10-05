@@ -1,0 +1,59 @@
+body { /*background-color: black;*/ background-image: url(../imag/jesus-2.jpg); 
+ 	background-repeat: no-repeat;  
+/* 	background-attachment: fixed;*/
+ 	background-size: cover; font-style: normal;
+/* 	font-family: "Sofia", sans-serif;*/}
+
+h2{ color: yellow; text-align: center; display: inline-block; 
+	background-color: #a22;padding: 10px;box-sizing: border-box;
+	margin: 5px; border-radius: 10px;
+	border: 10px ridge grey; }
+
+a {color: black; font-size: 25px; text-decoration: none;}
+
+b{ color: blue; font-size: 20px; font-style: italic;}
+
+li {cursor: pointer;}
+
+button {  margin: 0px; font-family: "Sofia", sans-serif;}
+
+.boton {
+	color:black;
+  	font-size: 7px;
+/*  font-weight: 500; */
+  	padding: 0.5em 1.2em;
+  	background: transparent;
+  	position: relative;
+  	border: 0px solid #318aac;
+  	outline: 3px solid;
+  	outline-color: rgba(49, 138, 172, 0.4);
+ 	transition: all 3s cubic-bezier(0.19, 1, 0.22, 1);
+ }
+	
+.boton:hover{
+	background:blue;color:white;
+	box-shadow: inset 0 0 20px rgba(49, 138, 172, 0.5), 0 0 20px rgba(49, 138, 172, 0.4);
+  	outline-color: rgba(49, 138, 172, 0);
+  	outline-offset: 80px;
+ 	text-shadow: 1px 1px 6px #fff;
+  	/*border-shadow: 2px;transform: rotate(-7deg)*/;}	
+
+.boton1 {
+	color:yellow;
+  	font-size: 7px;
+/*  font-weight: 500; */
+  	padding: 0.5em 0.5em;
+  	background:rgba(1, 167, 233, 0.7);
+  	border: 2px solid;
+  	border-color: #318aac;
+  	transition: all 1s ease;
+  	position: relative;
+	/*transition: 5000ms;*/}
+	
+
+.boton1:hover{
+  background:blue;
+  color: #fff !important;
+}
+
+
