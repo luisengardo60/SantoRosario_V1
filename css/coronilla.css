@@ -27,7 +27,7 @@ article { padding: 12px; padding-top: 9em; background-color:darkcyan;
 
 article p { color:darkblue; font-size: 1.4em;}
 
-article a {	color: white; text-align: center; display: inline-block; 
+article a {	color: white; text-align: center; display: inline-block;
 	background-color: transparent;box-sizing: content-box;
 	font-size: 15px; margin: 10px; border-radius: 15px; border: 8px outset grey; }
 
