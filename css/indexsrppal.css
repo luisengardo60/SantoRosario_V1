@@ -45,11 +45,30 @@ p { color: yellow; font-size: 25px; float: center; }
 
 b { font-size: 30px;}
 
-.uno { width: 410px; height: 410px; float: right;
+.uno { width: 310px; height: 310px; float: left;
 	padding-top: 0em; padding-right: 0px; padding-top: 0em;padding-bottom: 0em;
-	margin-right: 200px; margin-top: 80px;
-			 /*object-fit: contain;*/
-			 border-radius: 400px; border:2px solid blue}
+	margin-left: 890px; margin-top: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -10px;
+	filter: drop-shadow(0px 5px 10px cyan);
+	animation: rotar 9s linear infinite;
+		 }
+		 
+		 .logo:hover {
+			 cursor: pointer;
+		 }
+		 
+		 @keyframes rotar {
+			 from {
+				 transform: rotateY(0deg);
+			 }
+		 
+			 to {
+				 transform: rotateY(-360deg);
+			 }
+		 }
+		 
 
 .dos { /*border:2px solid orange;*/ padding: 5px; float: left;
 	width: 90px; height: 90px; border-top-left-radius: 100%; border-top-right-radius: 100%;object-fit: cover; }
