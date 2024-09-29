@@ -1,5 +1,4 @@
-body { background-image: linear-gradient(to right,blue,white); font-style: italic;
-		margin: 0%; padding: 0%;
+body { background-image: linear-gradient(to right,blue,white); font-style: italic; margin: 0%; padding: 0%;
 	/*background-image: url(../imag/jesus-2.jpg);
  	background-repeat: no-repeat; 
  	background-size:cover;
@@ -16,36 +15,19 @@ button {color: white; text-align: center; display: inline-block;
 
 button a {color:white; text-decoration: none;}
 
-div button.fondo {color: white; text-align: center; display: inline-block; 
+div .fondo {display: inline-block; 
 	background-color: blue;
 	box-sizing: content-box;
-	font-size: 18px;
-	margin: 10px;
+	margin: 2px;
+	margin-left: 50px;
 	border-radius: 2px;
 	border: 5px outset grey; }
 
-span {color: yellow; font-size: 22px;}
+span {color: yellow; font-size: 20px;}
+ 
+b { font-size: 20px;}
 
-div .zero, .one, .one_1 {
-	display: inline-block; padding-left: 50px;
-}
-
-div .zero, .two, .two_1 {
-	display: inline-block; padding-left: 50px;
-}
-
-div .zero, .three, .three_1 {
-	display: inline-block; padding-left: 50px;
-}
-
-div .zero, .four, .four_1 {
-	display: inline-block; padding-left: 50px;
-}
-p { color: yellow; font-size: 25px; float: center; }
-
-b { font-size: 30px;}
-
-.uno { width: 310px; height: 310px; float: left;
+.uno { width: 400px; height: 400px; float:right;
 	padding-top: 0em; padding-right: 0px; padding-top: 0em;padding-bottom: 0em;
 	margin-left: 890px; margin-top: 100px;
 	border-radius: 50%;
@@ -70,17 +52,9 @@ b { font-size: 30px;}
 		 }
 		 
 
-.dos { /*border:2px solid orange;*/ padding: 5px; float: left;
+.dos, .tres, .cuatro, .cinco { /*border:2px solid orange;*/ padding: 10Px; float: left;
 	width: 90px; height: 90px; border-top-left-radius: 100%; border-top-right-radius: 100%;object-fit: cover; }
 
-.tres { /*border:2px solid orange;*/ padding: 5px; float: left;
-	width: 90px; height: 90px; border-top-left-radius: 100%; border-top-right-radius: 100%; object-fit: cover; }
-
-.cuatro { /*border:2px solid orange;*/ padding: 5px; float: left;
-	width: 90px; height: 90px; border-top-left-radius: 100%; border-top-right-radius: 100%; object-fit: cover; }
-
-.cinco { /*border:2px solid orange;*/ padding: 5px; float: left;
-	width: 90px; height: 90px; border-top-left-radius: 100%; border-top-right-radius: 100%; object-fit: cover; }
-
+p {color:yellow; font-size: 20px; font-family:  Geneva;}
 
 
